@@ -3,4 +3,4 @@ kind: Route
 metadata:
   name: messaging
 spec:
-  host: messaging-manuela-stormshift-messaging.apps.wh-factory-edge.blueprints.rhecoeng.com
+  host: messaging-manuela-stormshift-messaging.apps.wh-factory-edge3.blueprints.rhecoeng.com
