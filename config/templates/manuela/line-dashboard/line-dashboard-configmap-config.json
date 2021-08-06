@@ -1,5 +1,5 @@
 {
-    "websocketHost": "http://iot-consumer-iotdemo.apps-crc.testing",
+    "websocketHost": "http://iot-consumer-iotdemo.apps.wh-factory-edge3.blueprints.rhecoeng.com",
     "websocketPath": "/api/service-web/socket",
     "SERVER_TIMEOUT": 20000
 }
